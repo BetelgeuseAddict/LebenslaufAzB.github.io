@@ -1,5 +1,4 @@
 title: Interactive CV English
 description: An interactive CV based on the hacker theme with integrated buttons
 show_downloads: true
-google_analytics:
 remote_theme: pages-themes/hacker@v0.2.0
